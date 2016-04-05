@@ -2,7 +2,7 @@
 Contributors: r0bsc0tt
 Tags: login logo, admin logo, 
 Requires at least: 4.2
-Tested up to: 4.2
+Tested up to: 4.5
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
