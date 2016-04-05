@@ -21,7 +21,7 @@ The default size is 84px x 84px.
   
 ##WordPress Requirements
 Requires at least: 2.7  
-Tested up to: 4.2.4  
+Tested up to: 4.5 
 
 ##Changelog
 = 1.0 =  
